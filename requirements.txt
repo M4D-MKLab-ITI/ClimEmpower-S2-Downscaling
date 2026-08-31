@@ -1,0 +1,10 @@
+numpy
+scipy
+rasterio
+PyWavelets
+matplotlib
+
+# PNN (CNN-based pansharpening) only — omit if you only need the classical methods
+tensorflow
+opencv-python
+tqdm
