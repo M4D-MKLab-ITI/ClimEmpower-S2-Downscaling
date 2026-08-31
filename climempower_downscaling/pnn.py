@@ -2,7 +2,10 @@
 
 Reference: Masi G, Cozzolino D, Verdoliva L, et al. "Pansharpening by
 convolutional neural networks." Remote Sensing, 2016, 8(7): 594.
-Code reference: https://github.com/sergiovitale/pansharpening-cnn-python-version
+Adapted from the MIT-licensed https://github.com/codegaj/py_pansharpening
+(methods/PNN.py), which in turn credits
+https://github.com/sergiovitale/pansharpening-cnn-python-version as its own
+code reference.
 
 This is a zero-shot method: for each scene, the real pan/multispectral pair is
 degraded (via ``downgrade_images``) to synthesize a lower-resolution training

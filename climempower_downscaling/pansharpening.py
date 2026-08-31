@@ -3,6 +3,9 @@
 Each function fuses a high-resolution panchromatic band with a lower-resolution
 multispectral stack. Both inputs are expected to be normalized to [0, 1]; outputs
 are returned as uint16 in the full [0, 65535] range.
+
+Adapted from the MIT-licensed https://github.com/codegaj/py_pansharpening
+(methods/Brovey.py, methods/IHS.py, methods/Wavelet.py).
 """
 
 from __future__ import annotations

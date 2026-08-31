@@ -1,4 +1,8 @@
-"""Low-level array utilities shared by the classical and PNN pansharpening methods."""
+"""Low-level array utilities shared by the classical and PNN pansharpening methods.
+
+``upsample_interp23``/``BaseCoeff`` are adapted from the MIT-licensed
+https://github.com/codegaj/py_pansharpening (utils.py).
+"""
 
 from __future__ import annotations
 
