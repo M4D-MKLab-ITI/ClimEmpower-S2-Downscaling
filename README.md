@@ -104,4 +104,4 @@ which `py_pansharpening`'s own PNN implementation credits as its source.
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+CC BY-NC-ND 4.0 — see [LICENSE](LICENSE).
